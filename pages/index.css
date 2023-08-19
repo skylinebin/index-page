@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 14px/1.8 arial;
+}
+
+html,
+body,
+.wrap {
+    height: 100%;
+}
+
+body,
+body .contents {
+    background-image: linear-gradient(135deg, #f7f2f0 0%, #c1e0e2 100%);
+}
+
+.headtitle {
+    padding-top: 2rem;
+    text-align: center;
+    color: black;
+}
+
+.contents {
+    height: auto;
+    /* min-height: 170%;
+    height: 170%; */
+    padding-bottom: 100px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.footer {
+    /* position: relative; */
+    line-height: 40px;
+    /* margin-top: -40px; */
+    background: #333;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+
+}
+
+.footerimg {
+    display: none;
+    height: 120px;
+    position: fixed;
+    flex-flow: hidden;
+    bottom: 100px;
+    right: 0px;
+}
+
+.footer {
+    display: block;
+}
+
+
+.footerloading {
+    display: none;
+}
+
+.titlestyle {
+    font-size: 20px;
+    font-weight: bold;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
+
+.websitestyle {
+    font-size: 16px;
+    border-radius: 4px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    opacity: .9;
+    transition: all .3s;
+    overflow: hidden;
+}
+
+.websitestyle:hover {
+    opacity: 1;
+    transform: scale(1.05);
+}
+
+
+.ahrefstyle {
+    color: #FFF;
+    text-decoration: none;
+
+}
+
+.ahrefstyle:hover {
+    text-decoration: none;
+    color: #c6e6e8;
+
+}
+
+.itemcontents {
+    width: 25%;
+    float: left;
+}
+
+.clearboth {
+    clear: both;
+}
+
+[v-cloak] {
+    display: none !important;
+}
+
+.navbar {
+    margin-top: 2em;
+}
+
+@media only screen and (min-width: 50em) {
+    .itemcontents {
+        width: 25%;
+    }
+    .navbar {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
+@media only screen and (min-width: 30.0625em) and (max-width: 50em) {
+    .itemcontents {
+        width: 33%;
+    }
+    .navbar {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
+
+@media only screen and (max-width: 30em) {
+    .itemcontents {
+        width: 50%;
+    }
+
+    .navbar {
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+}

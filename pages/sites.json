@@ -1,0 +1,140 @@
+{
+    "message": "正常：操作成功!",
+    "success": true,
+    "result": [
+        {
+            "_id": "1",
+            "weburl": [
+                "https://e.juejin.cn/",
+                "https://tool.lu/timestamp/",
+                "https://cloud.tencent.com/",
+                "https://portal.qiniu.com/kodo/bucket",
+                "https://rxjs.dev/",
+                "https://github.com/",
+                "https://tongji.baidu.com/",
+                "https://developer.mozilla.org/zh-CN/",
+                "https://console.leancloud.cn/apps",
+                "https://threejs.org/",
+                "https://www.pixijs.com/",
+                "https://stackblitz.com/",
+                "https://webgl2fundamentals.org/webgl/lessons/zh_cn/",
+                "https://www.tuicool.com/sites"
+            ],
+            "webname": [
+                "掘金酱",
+                "时间戳",
+                "腾讯云",
+                "七牛云",
+                "RxJS",
+                "Github",
+                "百度统计",
+                "MDN",
+                "LeanCloud",
+                "three.js",
+                "pixi.js",
+                "stackblitz",
+                "WebGL2",
+                "推酷"
+            ],
+            "catename": "技术指标",
+            "color": "#ff9d76",
+            "sort": "1"
+        },
+        {
+            "_id": "3",
+            "weburl": [
+                "https://earth.nullschool.net/zh-cn/#current/wind/surface/level/orthographic=-249.71,33.50,853",
+                "https://www.seeseed.com/",
+                "https://aidn.jp/",
+                "https://bezier.method.ac/",
+                "https://hao.uisdc.com/",
+                "https://js13kgames.com/",
+                "https://minghuaji.dpm.org.cn/",
+                "https://ctext.org/zhs",
+                "https://klart.io/Pixels",
+                "https://music.migu.cn/v3",
+                "http://species-in-pieces.com/#",
+                "https://www.shuxuele.com/quadratic-equation-solver.html",
+                "https://bruno-simon.com/",
+                "https://www.doyoudo.com/resources",
+                "https://weread.qq.com/",
+                "https://open.163.com/",
+                "https://flomoapp.com/mine#/",
+                "http://datav.aliyun.com/portal/school/atlas/area_selector",
+                "https://chat.openai.com/chat"
+            ],
+            "webname": [
+                "地球洋流",
+                "SeeSeed",
+                "AIDN",
+                "PS钢笔练习",
+                "UISDC",
+                "js13k",
+                "故宫名画记",
+                "诸子百家",
+                "Pixels",
+                "咪咕音乐",
+                "纸片动效",
+                "小朋友的数学乐",
+                "Car-WebGL",
+                "doyoudo",
+                "微信阅读",
+                "网易公开课",
+                "flomo",
+                "阿里云地图数据",
+                "ChatGPT"
+            ],
+            "catename": "Relax",
+            "color": "#00a8b5",
+            "sort": "2"
+        },
+        {
+            "_id": "4",
+            "weburl": [
+                "https://skylinebin.com",
+                "https://github.com/skylinebin",
+                "https://focalboard.skylinebin.com/",
+                "https://note.skylinebin.com",
+                "https://vr.skylinebin.com/",
+                "https://thank.skylinebin.com/diff/index.html",
+                "https://thank.skylinebin.com/half/index.html"
+            ],
+            "webname": [
+                "技术博客",
+                "Github 主页",
+                "Focalboard",
+                "在线笔记本",
+                "RaspberryPi",
+                "文本比对",
+                "半角转换"
+            ],
+            "catename": "SkylineBin",
+            "color": "#774898",
+            "sort": "3"
+        },
+        {
+            "_id": "2",
+            "weburl": [
+                "https://alloyteam.github.io/",
+                "https://jelly.jd.com/articlelist/exp",
+                "https://www.w3.org/",
+                "https://tech.meituan.com/",
+                "https://airbnb.design/",
+                "https://web.dev/blog/",
+                "http://d.news.163.com/#/h5"
+            ],
+            "webname": [
+                "Tencent AlloyTeam",
+                "JD O2 Lab",
+                "W3C",
+                "美团技术团队",
+                "Airbnb",
+                "web.dev",
+                "网易哒哒"
+            ],
+            "catename": "技术团队",
+            "color": "#e62a76",
+            "sort": "4"
+        }
+    ]
+}
