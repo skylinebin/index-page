@@ -18,7 +18,8 @@
                 "https://www.pixijs.com/",
                 "https://stackblitz.com/",
                 "https://webgl2fundamentals.org/webgl/lessons/zh_cn/",
-                "https://www.tuicool.com/sites"
+                "https://www.tuicool.com/sites",
+                "https://www.doubao.com/"
             ],
             "webname": [
                 "掘金酱",
@@ -34,7 +35,8 @@
                 "pixi.js",
                 "stackblitz",
                 "WebGL2",
-                "推酷"
+                "推酷",
+                "豆包"
             ],
             "catename": "技术指标",
             "color": "#ff9d76",
