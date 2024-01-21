@@ -63,7 +63,8 @@
                 "https://open.163.com/",
                 "https://flomoapp.com/mine#/",
                 "http://datav.aliyun.com/portal/school/atlas/area_selector",
-                "https://chat.openai.com/chat"
+                "https://chat.openai.com/chat",
+                "https://www.notion.so/product"
             ],
             "webname": [
                 "地球洋流",
@@ -84,7 +85,8 @@
                 "网易公开课",
                 "flomo",
                 "阿里云地图数据",
-                "ChatGPT"
+                "ChatGPT",
+                "Notion"
             ],
             "catename": "Relax",
             "color": "#00a8b5",
